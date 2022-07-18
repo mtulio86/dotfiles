@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = mtulio@hotmail.de
+	name = Marco Tulio Modesto
